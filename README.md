@@ -9,5 +9,5 @@ This case study compares the length of stay of neonate cases that have been mana
 
 There are two files included in this repository:
 
-1. Neonate Case - Exhibits.xlsx - Client-Ready Exhibits, along with the data.
-2. Neonate Case Report.docx - Client-Ready report
+1. Neonate Case Study - Exhibits.xlsx - Client-Ready Exhibits, along with the data.
+2. Neonate Case Study Report.docx - Client-Ready report
